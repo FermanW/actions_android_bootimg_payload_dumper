@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.3.31/miui_ALIOTH_21.3.31_25fc8f0d66_11.0.zip
+  ROM_URL: http://romdownload.nubia.com/%E7%BA%A2%E9%AD%946/V8.12/NX669J-update.zip
   TZ: Asia/Shanghai
 
 jobs:
